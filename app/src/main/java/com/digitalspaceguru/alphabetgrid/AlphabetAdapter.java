@@ -43,7 +43,7 @@ public class AlphabetAdapter extends BaseAdapter {
             TextView letterView = (TextView) gridView
                     .findViewById(R.id.grid_item_letter);
             // set values into views
-            letterView.setText("A");  // using dummy data for now
+            letterView.setText(mLetters[i]);  // using dummy data for now
         } else {
             gridView = (View) convertView;
         }

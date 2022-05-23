@@ -2,4 +2,5 @@
     <string name="app_name">AlphabetGrid</string>
     <string name="letters">Letters</string>
     <string name="alphabet">A</string>
+    <string name="letter">Letter</string>
 </resources>
